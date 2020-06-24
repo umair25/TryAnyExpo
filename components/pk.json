@@ -1,0 +1,383 @@
+[
+  {
+    "city": "Karachi"
+  },
+  {
+    "city": "Lahore"
+  },
+  {
+    "city": "Faisalabad"
+  },
+  {
+    "city": "Serai"
+  },
+  {
+    "city": "Rawalpindi"
+  },
+  {
+    "city": "Multan"
+  },
+  {
+    "city": "Gujranwala"
+  },
+  {
+    "city": "Hyderabad City"
+  },
+  {
+    "city": "Peshawar"
+  },
+  {
+    "city": "Abbottabad"
+  },
+  {
+    "city": "Islamabad"
+  },
+  {
+    "city": "Quetta"
+  },
+  {
+    "city": "Bannu"
+  },
+  {
+    "city": "Bahawalpur"
+  },
+  {
+    "city": "Sargodha"
+  },
+  {
+    "city": "Sialkot City"
+  },
+  {
+    "city": "Sukkur"
+  },
+  {
+    "city": "Larkana"
+  },
+  {
+    "city": "Sheikhupura"
+  },
+  {
+    "city": "Mirpur Khas"
+  },
+  {
+    "city": "Rahimyar Khan"
+  },
+  {
+    "city": "Kohat"
+  },
+  {
+    "city": "Jhang Sadr"
+  },
+  {
+    "city": "Gujrat"
+  },
+  {
+    "city": "Bardar"
+  },
+  {
+    "city": "Kasur"
+  },
+  {
+    "city": "Dera Ghazi Khan"
+  },
+  {
+    "city": "Masiwala"
+  },
+  {
+    "city": "Nawabshah"
+  },
+  {
+    "city": "Okara"
+  },
+  {
+    "city": "Gilgit"
+  },
+  {
+    "city": "Chiniot"
+  },
+  {
+    "city": "Sadiqabad"
+  },
+  {
+    "city": "Turbat"
+  },
+  {
+    "city": "Dera Ismail Khan"
+  },
+  {
+    "city": "Chaman"
+  },
+  {
+    "city": "Zhob"
+  },
+  {
+    "city": "Mehra"
+  },
+  {
+    "city": "Parachinar"
+  },
+  {
+    "city": "Gwadar"
+  },
+  {
+    "city": "Kundian"
+  },
+  {
+    "city": "Shahdad Kot"
+  },
+  {
+    "city": "Haripur"
+  },
+  {
+    "city": "Matiari"
+  },
+  {
+    "city": "Dera Allahyar"
+  },
+  {
+    "city": "Lodhran"
+  },
+  {
+    "city": "Batgram"
+  },
+  {
+    "city": "Thatta"
+  },
+  {
+    "city": "Bagh"
+  },
+  {
+    "city": "Badin"
+  },
+  {
+    "city": "Mansehra"
+  },
+  {
+    "city": "Ziarat"
+  },
+  {
+    "city": "Muzaffargarh"
+  },
+  {
+    "city": "Tando Allahyar"
+  },
+  {
+    "city": "Dera Murad Jamali"
+  },
+  {
+    "city": "Karak"
+  },
+  {
+    "city": "Mardan"
+  },
+  {
+    "city": "Uthal"
+  },
+  {
+    "city": "Nankana Sahib"
+  },
+  {
+    "city": "Barkhan"
+  },
+  {
+    "city": "Hafizabad"
+  },
+  {
+    "city": "Kotli"
+  },
+  {
+    "city": "Loralai"
+  },
+  {
+    "city": "Dera Bugti"
+  },
+  {
+    "city": "Jhang City"
+  },
+  {
+    "city": "Sahiwal"
+  },
+  {
+    "city": "Sanghar"
+  },
+  {
+    "city": "Pakpattan"
+  },
+  {
+    "city": "Chakwal"
+  },
+  {
+    "city": "Khushab"
+  },
+  {
+    "city": "Ghotki"
+  },
+  {
+    "city": "Kohlu"
+  },
+  {
+    "city": "Khuzdar"
+  },
+  {
+    "city": "Awaran"
+  },
+  {
+    "city": "Nowshera"
+  },
+  {
+    "city": "Charsadda"
+  },
+  {
+    "city": "Qila Abdullah"
+  },
+  {
+    "city": "Bahawalnagar"
+  },
+  {
+    "city": "Dadu"
+  },
+  {
+    "city": "Aliabad"
+  },
+  {
+    "city": "Lakki Marwat"
+  },
+  {
+    "city": "Chilas"
+  },
+  {
+    "city": "Pishin"
+  },
+  {
+    "city": "Tank"
+  },
+  {
+    "city": "Chitral"
+  },
+  {
+    "city": "Qila Saifullah"
+  },
+  {
+    "city": "Shikarpur"
+  },
+  {
+    "city": "Panjgur"
+  },
+  {
+    "city": "Mastung"
+  },
+  {
+    "city": "Kalat"
+  },
+  {
+    "city": "Gandava"
+  },
+  {
+    "city": "Khanewal"
+  },
+  {
+    "city": "Narowal"
+  },
+  {
+    "city": "Khairpur"
+  },
+  {
+    "city": "Malakand"
+  },
+  {
+    "city": "Vihari"
+  },
+  {
+    "city": "Saidu Sharif"
+  },
+  {
+    "city": "Jhelum"
+  },
+  {
+    "city": "Mandi Bahauddin"
+  },
+  {
+    "city": "Bhakkar"
+  },
+  {
+    "city": "Toba Tek Singh"
+  },
+  {
+    "city": "Jamshoro"
+  },
+  {
+    "city": "Kharan"
+  },
+  {
+    "city": "Umarkot"
+  },
+  {
+    "city": "Hangu"
+  },
+  {
+    "city": "Timargara"
+  },
+  {
+    "city": "Gakuch"
+  },
+  {
+    "city": "Jacobabad"
+  },
+  {
+    "city": "Alpurai"
+  },
+  {
+    "city": "Mianwali"
+  },
+  {
+    "city": "Musa Khel Bazar"
+  },
+  {
+    "city": "Naushahro Firoz"
+  },
+  {
+    "city": "New Mirpur"
+  },
+  {
+    "city": "Daggar"
+  },
+  {
+    "city": "Eidgah"
+  },
+  {
+    "city": "Sibi"
+  },
+  {
+    "city": "Dalbandin"
+  },
+  {
+    "city": "Rajanpur"
+  },
+  {
+    "city": "Leiah"
+  },
+  {
+    "city": "Upper Dir"
+  },
+  {
+    "city": "Tando Muhammad Khan"
+  },
+  {
+    "city": "Attock City"
+  },
+  {
+    "city": "Rawala Kot"
+  },
+  {
+    "city": "Swabi"
+  },
+  {
+    "city": "Kandhkot"
+  },
+  {
+    "city": "Dasu"
+  },
+  {
+    "city": "Athmuqam"
+  }
+]
